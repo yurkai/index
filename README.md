@@ -2,7 +2,7 @@
 
 Это мой гитхаб для проектов и учебных задач. Помимо него тут есть:
 
-* Финальный проект специализации МФТИ и Яндекса "Машинное обучение и анализ данных" [Предсказание оттока пользователей](https://github.com/yurkai/churn). Есть [отчет](https://github.com/yurkai/churn/blob/master/week07.ipynb) проекта.
+* Финальный проект специализации МФТИ и Яндекса "Машинное обучение и анализ данных": [Предсказание оттока пользователей](https://github.com/yurkai/churn). Есть [отчет](https://github.com/yurkai/churn/blob/master/week07.ipynb) проекта.
 
 * [mlbootcamp](https://github.com/yurkai/mlbootcamp): описание решения к конкурсу MLBootcamp 2016 (mail.ru/НГУ). И [статья на Хабре](https://habrahabr.ru/post/306198/) с очень простым и быстрым вариантом решения.
 
